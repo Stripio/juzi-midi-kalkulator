@@ -1,5 +1,5 @@
 
-const C='juzi-midi-v2';
+const C='juzi-midi-v3';
 const F=[
   './',
   './index.html',
